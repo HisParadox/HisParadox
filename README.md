@@ -1,5 +1,19 @@
 # 💫 About Me:
-I'm currently working on my professional Portfolio<br>I'm looking to collaborate on engaging projects that I can learn alot from. I might not get things quickly, but I know how to find the answers I need.<br>I'm currently learning C++ with a little bit of embedded systems and PCB design.<br>Ask me about the Cpp learning path I put together for myself and others like me.<br>Fun Fact about me, I ran an half marathon for fun.
+Engineering student exploring testing, robotics, and embedded systems
+I build small things that move, sense, and talk back, then I break them on purpose to learn
+Currently deepening C and C++, plus PCB design and hardware bring up
+Open to collaborating on projects with clear goals, tight feedback loops, and shipping mindset
+
+What I’m learning
+Modern C++ patterns, unit testing, and CI for embedded
+STM32 and Raspberry Pi, basic RTOS, serial comms, sensor fusion
+
+Ask me about
+The C and C++ study path I built for beginners who like hands on learning
+
+Fun Fact
+Ran a half marathon for fun, yes on purpose
+Coffee powered, oscilloscope curious
 
 
 ## 🌐 Socials:
