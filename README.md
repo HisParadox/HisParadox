@@ -4,16 +4,15 @@ I build small things that move, sense, and talk back, then I break them on purpo
 Currently deepening C and C++, plus PCB design and hardware bring up
 Open to collaborating on projects with clear goals, tight feedback loops, and shipping mindset
 
-What I’m learning
-Modern C++ patterns, unit testing, and CI for embedded
-STM32 and Raspberry Pi, basic RTOS, serial comms, sensor fusion
+What I’m learning:
+Modern C++ patterns, unit testing, and CI for embedded systems and Raspberry Pi, basic RTOS, serial comms, sensor fusion
 
-Ask me about
+Ask me about:
 The C and C++ study path I built for beginners who like hands on learning
 
 Fun Fact
 Ran a half marathon for fun, yes on purpose
-Coffee powered, oscilloscope curious
+I am Coffee powered, and oscilloscope curious
 
 
 ## 🌐 Socials:
